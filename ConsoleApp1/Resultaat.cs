@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Klassen
+namespace ConsoleApp1
 {
     internal class Resultaat
     {
