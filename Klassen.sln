@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaTime", "PizzaTime\PizzaTime.csproj", "{8AC94EEA-051F-4DD9-9EA8-C924C4E05F52}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RapportModule ConApp", "ConsoleApp1\RapportModule ConApp.csproj", "{7E8CFB12-04C7-4EA4-BC00-312FDD5A7421}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RapportModule ConApp", "ConsoleApp1\RapportModule ConApp.csproj", "{7E8CFB12-04C7-4EA4-BC00-312FDD5A7421}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nummers ConApp", "ConsoleApp2\Nummers ConApp.csproj", "{2C721DCC-46EF-459D-B83A-4EDF9D4DA1D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nummers ConApp", "ConsoleApp2\Nummers ConApp.csproj", "{2C721DCC-46EF-459D-B83A-4EDF9D4DA1D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentKlasse ConApp", "ConsoleApp3\StudentKlasse ConApp.csproj", "{93957805-4D57-4061-B1B7-2C382605007D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentKlasse ConApp", "ConsoleApp3\StudentKlasse ConApp.csproj", "{93957805-4D57-4061-B1B7-2C382605007D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pizzatime ConApp", "ConsoleApp4\Pizzatime ConApp.csproj", "{F64681A8-A887-476D-82CC-4EBDEED58DC2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8AC94EEA-051F-4DD9-9EA8-C924C4E05F52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8AC94EEA-051F-4DD9-9EA8-C924C4E05F52}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8AC94EEA-051F-4DD9-9EA8-C924C4E05F52}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8AC94EEA-051F-4DD9-9EA8-C924C4E05F52}.Release|Any CPU.Build.0 = Release|Any CPU
 		{7E8CFB12-04C7-4EA4-BC00-312FDD5A7421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{7E8CFB12-04C7-4EA4-BC00-312FDD5A7421}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E8CFB12-04C7-4EA4-BC00-312FDD5A7421}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -33,6 +29,10 @@ Global
 		{93957805-4D57-4061-B1B7-2C382605007D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93957805-4D57-4061-B1B7-2C382605007D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93957805-4D57-4061-B1B7-2C382605007D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F64681A8-A887-476D-82CC-4EBDEED58DC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F64681A8-A887-476D-82CC-4EBDEED58DC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F64681A8-A887-476D-82CC-4EBDEED58DC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F64681A8-A887-476D-82CC-4EBDEED58DC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
